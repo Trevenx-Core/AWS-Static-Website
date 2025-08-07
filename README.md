@@ -28,7 +28,7 @@ It follows modern cloud hosting practices for static content distribution and HT
 ---
 
 ## 🧱 Architecture Diagram
-*(Insert diagram here — e.g., `architecture.png`)*
+TBD
 
 ---
 
@@ -72,8 +72,6 @@ A fully functional, **secure static website** hosted on AWS with:
 ---
 
 ## 📜 License
-*(Add license info here if applicable)*
-
 
 Add CI/CD with GitHub Actions
 
