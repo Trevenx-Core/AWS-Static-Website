@@ -11,6 +11,7 @@ It follows modern cloud hosting practices for static content distribution and HT
 
 ## 🧠 Key Skills Demonstrated
 - **S3 bucket creation & configuration**
+
 - **Static website hosting** with S3
 - **Domain configuration** with Route 53
 - **Content distribution** using CloudFront CDN
@@ -28,7 +29,7 @@ It follows modern cloud hosting practices for static content distribution and HT
 ---
 
 ## 🧱 Architecture Diagram
-TBD
+<img width="811" height="309" alt="staticweb drawio" src="https://github.com/user-attachments/assets/5045351d-b721-43eb-b2ac-74996956287e" />
 
 ---
 
